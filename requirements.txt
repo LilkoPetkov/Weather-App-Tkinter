@@ -1,0 +1,10 @@
+certifi==2022.12.7
+charset-normalizer==3.1.0
+darkdetect==0.8.0
+idna==3.4
+ijson==3.2.0.post0
+Pillow==9.5.0
+python-decouple==3.8
+requests==2.29.0
+ttkthemes==3.2.2
+urllib3==1.26.15
